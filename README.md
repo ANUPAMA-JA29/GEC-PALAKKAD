@@ -28,6 +28,7 @@ GEC Palakkad offers a diverse range of engineering programs across multiple disc
 - **Mechanical Engineering (ME)**
 - **Civil Engineering (CE)**
 - **𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢
+
 Each department is equipped with state-of-the-art laboratories, experienced faculty, and an industry-aligned curriculum to foster innovation and technical excellence.
 
 ---
